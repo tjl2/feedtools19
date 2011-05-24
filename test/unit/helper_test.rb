@@ -1,3 +1,4 @@
+# encoding: UTF-8
 require 'test/unit'
 require 'feed_tools'
 require 'feed_tools/helpers/html_helper'
