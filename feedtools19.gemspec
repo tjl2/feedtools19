@@ -20,4 +20,6 @@ Gem::Specification.new do |s|
   s.test_files    = Dir['test/**/*']
   s.executables   = []
   s.require_paths = ["lib"]
+  
+  s.add_dependency 'uuidtools'
 end
